@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
 
+Disallow: /admin/
+Disallow: /tmp/
+
+Allow: /assets/
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
 Sitemap: https://www.hessmachinery.com/sitemap.xml
